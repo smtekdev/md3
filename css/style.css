@@ -4358,7 +4358,7 @@ iframe#youtubevideo {
 .discount_section .dish_block .dish_text {
   width: 50%;
   background-image: url(../images/disocunt_bg.jpg);
-  border-radius: 20px 0 0 20px;
+  border-radius: 0px 20px 20px 0px;
   padding: 40px;
   height: 100%;
 }
@@ -4427,7 +4427,7 @@ iframe#youtubevideo {
 
 .discount_section .dish_block .dish_img img {
   max-width: 100%;
-  border-radius: 0 20px 20px 0;
+  border-radius: 20px 0px 0px 20px;
   height: 100%;
   object-fit: cover;
 }
